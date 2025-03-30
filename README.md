@@ -3,3 +3,5 @@
 Um curso para iniciantes python, 
 aprendendo de forma prática e detalhada
 com aulas no youtube.
+
+Esse material tem conteúdos básicos e fundamentos.
