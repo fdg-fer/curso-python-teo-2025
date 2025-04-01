@@ -1,3 +1,4 @@
+# %%
 # Escreva um programa que receba uma lista de números
 # do usuario e conte quantas vezes um número
 # específico aparece na lista
@@ -11,3 +12,16 @@ for x in lista:
     if x == numero:
         contador+=1
 print(contador)
+
+# %%
+
+lista = []
+
+while True:
+    numero = input("Digite um valor:")
+    if numero == "":
+        break
+    else:
+        lista.append(int(numero))
+        
+print(lista)
