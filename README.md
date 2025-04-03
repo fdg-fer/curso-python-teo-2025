@@ -13,7 +13,7 @@ Esse material tem conteúdos básicos e fundamentos.
 -> Variáveis\
 -> Lógica\
 -> Laços de Repetição\
--> Estrutura de Dados\
+-> Estrutura de Dados
 
 -----------------------------------------------------------------
 
@@ -28,7 +28,7 @@ input -> forma de o usuário inputar informação
 
 ------------------------------------------------------------------
 
-##Lógica
+## Lógica
 
 if, elif e else
 
@@ -40,4 +40,38 @@ else:\
     print("c")
 
 ------------------------------------------------------------------
+
+## Laços 
+
+while -> utilizada quando existe uma concidição declarada.\
+Ex: enquanto x for TRUE continuar o laço, quando for FALSE usar BREAK\
+para encerrrar o laço.
+
+while True:\
+    if == 10\
+        print(10*2)\
+    else:\
+        break
+
+for -> bastante utilizado qunado se quer iterar por uma estrutura de dados.\
+Ex: quando se quer iterar sobre uma estrutura de dados, seja uma lista, dicionário ou tupla,\
+querendo encontrar uma informação específica.
+
+dic = {"nome":"Fernanda", "idade":34, "cidade":"Goiânia"}
+
+for chave, valor in dic.items():/
+    if chave == "Cidade":/
+        print(valor)
+
+-------------------------------------------------------------------
+
+## Estrutura de dados
+
+Lista = [10, "sal", "café", "relógio", True]
+
+Dicionario = {"nome":"Fernanda", "idade":34, "cidade":"Goiânia"}
+
+Tupla = (("nome":"Fernanda"), ("idade":34), ("cidade":"Goiânia")) -> é imutável
+Tupla = (("nome":"Fernanda"), ("idade":34), ["cidade":"Goiânia"]) -> apenas a lista é mutável
+
 
