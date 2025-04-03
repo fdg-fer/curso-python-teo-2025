@@ -19,16 +19,16 @@ Tópicos abordados
 
 -> Variáveis
 
-x = 10 -> tipo "int"
-x = "café" -> tipo "string"
-x = 10.2 -> tipo "float"
+x = 10 -> tipo "int"\
+x = "café" -> tipo "string"\
+x = 10.2 -> tipo "float"\
 x = True -> boleano
 
 input -> forma de o usuário inputar informação
 
 ------------------------------------------------------------------
 
-## Lógica
+##Lógica
 
 if, elif e else
 
