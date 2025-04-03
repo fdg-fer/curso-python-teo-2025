@@ -17,15 +17,16 @@ Esse material tem conteúdos básicos e fundamentos.
 
 -----------------------------------------------------------------
 
--> Variáveis
+## Variáveis
 
-x = 10 -> tipo "int"\
-x = "café" -> tipo "string"\
-x = 10.2 -> tipo "float"\
-x = True -> boleano
+```python
+x = 10 -> tipo int
+x = "café" -> tipo "string"
+x = 10.2 -> tipo float
+x = True or False -> "booleanos"
 
 input -> forma de o usuário inputar informação
-
+```
 ------------------------------------------------------------------
 
 ## Lógica
@@ -41,12 +42,11 @@ else:
     print("c")
 ```
 
-
 ------------------------------------------------------------------
 
 ## Laços 
 
-while -> utilizada quando existe uma concidição declarada.\
+**while** -> utilizada quando existe uma concidição declarada.\
 Ex: enquanto x for TRUE continuar o laço, quando for FALSE usar BREAK\
 para encerrrar o laço.
 
@@ -60,7 +60,7 @@ while True:
 ```
 
 
-for -> bastante utilizado qunado se quer iterar por uma estrutura de dados.\
+**for** -> bastante utilizado qunado se quer iterar por uma estrutura de dados.\
 Ex: quando se quer iterar sobre uma estrutura de dados, seja uma lista, dicionário ou tupla,\
 querendo encontrar uma informação específica.
 
