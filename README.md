@@ -8,12 +8,12 @@ Esse material tem conteúdos básicos e fundamentos.
 
 -----------------------------------------------------------------
 
-Tópicos abordados 
+## Tópicos abordados 
 
--> Variáveis
--> Lógica 
--> Laços de Repetição
--> Estrutura de Dados
+-> Variáveis\
+-> Lógica\
+-> Laços de Repetição\
+-> Estrutura de Dados\
 
 -----------------------------------------------------------------
 
@@ -32,11 +32,11 @@ input -> forma de o usuário inputar informação
 
 if, elif e else
 
-if x = 10:
-    print("a")
-elif x < 10:
-    print("b")
-else:
+if x = 10:\
+    print("a")\
+elif x < 10:\
+    print("b")\
+else:\
     print("c")
 
 ------------------------------------------------------------------
