@@ -32,12 +32,15 @@ input -> forma de o usuário inputar informação
 
 if, elif e else
 
-if x = 10:\
-    print("a")\
-elif x < 10:\
-    print("b")\
-else:\
+```python
+if x == 10:
+    print("a")
+elif x < 10:
+    print("b")
+else:
     print("c")
+```
+
 
 ------------------------------------------------------------------
 
