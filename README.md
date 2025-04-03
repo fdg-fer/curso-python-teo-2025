@@ -11,7 +11,7 @@ Esse material tem conteúdos básicos e fundamentos.
 ## Tópicos abordados 
 
 -> Variáveis\
--> Lógica\
+-> Condicional\
 -> Laços de Repetição\
 -> Estrutura de Dados
 
@@ -29,7 +29,7 @@ input -> forma de o usuário inputar informação
 ```
 ------------------------------------------------------------------
 
-## Lógica
+## Condicional
 
 if, elif e else
 
