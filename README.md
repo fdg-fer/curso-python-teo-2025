@@ -76,11 +76,38 @@ for chave, valor in dic.items():/
 ## Estrutura de dados
 
 ```python
-Lista = [10, "sal", "café", "relógio", True]
+Lista = [10, "sal", "café", "relógio", True] -> valores
 
-Dicionario = {"nome":"Fernanda", "idade":34, "cidade":"Goiânia"}
+Dicionario = {"nome":"Fernanda", "idade":34, "cidade":"Goiânia"} -> chave:valor
 
 Tupla = (("nome":"Fernanda"), ("idade":34), ("cidade":"Goiânia")) -> é imutável
 Tupla = (("nome":"Fernanda"), ("idade":34), ["cidade":"Goiânia"]) -> apenas a lista é mutável
 ```
+
+-------------------------------------------------------------------
+**Esse foi um dos exercícios propostos que contemplam cada tópico abordado,\
+onde todos desempenham sua função em um único programa.**
+
+Escreva um programa que solicite ao usuário frases.
+Para parar de solicitar frases, ele pode apenas apertar enter.
+Seu programa deve apresentar cada frase e quantas vezes ela foi repetido.
+
+```python
+dados = {}
+
+while True:
+    frase = input("Digite a frase:")
+    if frase == "":
+        break
+    if frase not in dados:
+        dados[frase] = 1
+    if frase in dados:
+        dados[frase]+=1
+
+
+for x, y in dados.items():
+    print(x, "->" ,y)
+```
+
+
 
