@@ -9,6 +9,8 @@ obrigatórios. Em seguida junta todos argumentos em uma única lista
 e retorna a soma de todos os valores.
 '''
 
+# funcao media
+
 def media(a, b, *args):
     return soma(a, b, *args )/(len(args)+2)
 '''Essa função declara os argumentos obrigatorios que são a e b,

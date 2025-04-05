@@ -10,11 +10,11 @@ Esse material tem conteúdos básicos e fundamentos.
 
 ## Tópicos abordados 
 
--> Variáveis\
+-> ####**Variáveis**\
 -> Condicional\
 -> Laços de Repetição\
 -> Estrutura de Dados
-
+-> Funções
 -----------------------------------------------------------------
 
 ## Variáveis
@@ -109,5 +109,8 @@ for x, y in dados.items():
     print(x, "->" ,y)
 ```
 
+-------------------------------------------------------------------
+
+## Funções 
 
 
