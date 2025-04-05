@@ -10,11 +10,11 @@ Esse material tem conteúdos básicos e fundamentos.
 
 ## Tópicos abordados 
 
--> ### **Variáveis**\
--> Condicional\
--> Laços de Repetição\
--> Estrutura de Dados
--> Funções
+-> **Variáveis**\
+-> **Condicional**\
+-> **Laços de Repetição**\
+-> **Estrutura de Dados**\
+-> **Funções**
 -----------------------------------------------------------------
 
 ## Variáveis
