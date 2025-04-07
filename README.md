@@ -114,3 +114,5 @@ for x, y in dados.items():
 ## Funções 
 
 
+**Situação**                           **Use if**      **Use try/except**
+Você pode prever o problema                Sim             Não Precisa  
